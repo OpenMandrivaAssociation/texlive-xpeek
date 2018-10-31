@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-xpeek
 Version:	0.2
-Release:	11
+Release:	12
 Summary:	Define commands that peek ahead in the input stream
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpeek
