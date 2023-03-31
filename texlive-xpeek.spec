@@ -1,6 +1,6 @@
 Name:		texlive-xpeek
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Define commands that peek ahead in the input stream
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpeek
